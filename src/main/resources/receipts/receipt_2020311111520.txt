@@ -1,9 +1,0 @@
-                RECEIPT #2020311111520
-
-
-    #                                       PRODUCT NAME   QTY      LIST PRICE
-    1                    Toonies Snack Cinematic Edition    10           70000
-TOTAL:                                                                    70000
-
-
-Receipt created at 2020-03-11T11:15:27.245.

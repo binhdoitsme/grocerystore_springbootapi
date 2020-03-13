@@ -1,9 +1,0 @@
-                RECEIPT #2020311111635
-
-
-    #                                       PRODUCT NAME   QTY      LIST PRICE
-    1               Monster Original Flavor Energy Drink     4          120000
-TOTAL:                                                                   120000
-
-
-Receipt created at 2020-03-11T11:16:37.449.
