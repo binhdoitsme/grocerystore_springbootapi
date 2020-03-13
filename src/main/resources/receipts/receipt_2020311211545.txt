@@ -1,0 +1,10 @@
+                RECEIPT #2020311211545
+
+
+    #                                       PRODUCT NAME   QTY      LIST PRICE
+    1               Monster Original Flavor Energy Drink     4          120000
+    2                    Toonies Snack Cinematic Edition    10           70000
+TOTAL:                                                                   190000
+
+
+Receipt created at 2020-03-11T21:21:39.698.

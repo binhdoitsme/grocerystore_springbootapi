@@ -1,0 +1,9 @@
+                RECEIPT #2020312103130
+
+
+    #                                       PRODUCT NAME   QTY      LIST PRICE
+    1                       Wake-up 24-7 Limited Edition     5           45000
+TOTAL:                                                                    45000
+
+
+Receipt created at 2020-03-12T10:31:31.840.

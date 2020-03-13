@@ -1,0 +1,9 @@
+                RECEIPT #2020311112511
+
+
+    #                                       PRODUCT NAME   QTY      LIST PRICE
+    1                  Sting Ginseng Flavor Energy Drink     8           64000
+TOTAL:                                                                    64000
+
+
+Receipt created at 2020-03-11T11:25:42.599.

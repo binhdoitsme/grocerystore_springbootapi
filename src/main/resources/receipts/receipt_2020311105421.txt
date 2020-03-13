@@ -1,0 +1,11 @@
+                RECEIPT #2020311105421
+
+
+    #                                       PRODUCT NAME   QTY      LIST PRICE
+    1                                       Oishi CrabMe     6           30000
+    2                             Hao Hao Shrimp Noodles    10           30000
+    3                       Wake-up 24-7 Limited Edition     1            9000
+TOTAL:                                                                    69000
+
+
+Receipt created at 2020-03-11T11:12:30.700.

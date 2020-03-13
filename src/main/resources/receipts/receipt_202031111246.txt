@@ -1,0 +1,9 @@
+                RECEIPT #202031111246
+
+
+    #                                       PRODUCT NAME   QTY      LIST PRICE
+    1                                       Oishi CrabMe    10           50000
+TOTAL:                                                                    50000
+
+
+Receipt created at 2020-03-11T11:24:11.853.
